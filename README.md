@@ -42,3 +42,15 @@ const Raza = () => ({
   </a>
 </p>
 <br>
+
+## Find Me
+<p>
+<div align="center">
+<a href="mailto:razah12145@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/-Gmail-d14836?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=282828" alt="Gmail">
+</a>
+<a href="https://www.linkedin.com/in/razah1214" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=282828" alt="LinkedIn">
+</a>
+</div>
+</p>
