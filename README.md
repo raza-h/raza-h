@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="center" style="display: flex; width: 100%, justify-content: space-between">
   <b>Raza Haider</b>
 </h1>
 
