@@ -33,15 +33,6 @@ const Raza = () => ({
                     })
 ```
 
-## My Statistics
-
-<br/>
-<p align="left">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=raza-h&show_icons=true&theme=gruvbox&hide_border=true" />
-  </a>
-</p>
-<br>
-
 ## Find Me
 <p>
 <div align="center">
