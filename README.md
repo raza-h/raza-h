@@ -20,14 +20,14 @@ Hi! I'm Raza Haider, a software engineer at Jazz, Pakistan. I love to learn new 
 <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
 <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
 <img src="https://img.shields.io/badge/-JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=f7df1e&labelColor=282828">
+<img src="https://img.shields.io/badge/-TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=3178c6&labelColor=282828">
 
 <br />
-<img src="https://img.shields.io/badge/-MySQL-4479a1?style=for-the-badge&logo=mysql&logoColor=4479a1&labelColor=282828">
 <img src="https://img.shields.io/badge/-Express-ffffff?style=for-the-badge&logo=express&logoColor=ffffff&labelColor=282828">
-<img src="https://img.shields.io/badge/-TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=3178c6&labelColor=282828">
 <img src="https://img.shields.io/badge/-Redis-dc382d?style=for-the-badge&logo=redis&logoColor=dc382d&labelColor=282828">
-<img src="https://img.shields.io/badge/-AWS-ff9900?style=for-the-badge&logo=amazonaws&logoColor=ff9900&labelColor=282828">
+<img src="https://img.shields.io/badge/-MySQL-4479a1?style=for-the-badge&logo=mysql&logoColor=4479a1&labelColor=282828">
 <img src="https://img.shields.io/badge/-Docker-2496ed?style=for-the-badge&logo=docker&logoColor=2496ed&labelColor=282828">
+<img src="https://img.shields.io/badge/-AWS-ff9900?style=for-the-badge&logo=amazonaws&logoColor=ff9900&labelColor=282828">
 </div>
 </p>
 
