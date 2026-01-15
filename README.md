@@ -9,7 +9,6 @@ Hi! I'm Raza Haider, a software engineer at Jazz, Pakistan. I love to learn new 
 <div align="center">
 <img src="https://img.shields.io/badge/-React-61dafb?style=for-the-badge&logo=react&logoColor=61dafb&labelColor=282828">
 <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=ffffff&labelColor=282828">
-<img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=339933&labelColor=282828">
 
 <br />
 <img src="https://img.shields.io/badge/-Ant%20Design-1890ff?style=for-the-badge&logo=antdesign&logoColor=1890ff&labelColor=282828">
@@ -23,6 +22,7 @@ Hi! I'm Raza Haider, a software engineer at Jazz, Pakistan. I love to learn new 
 <img src="https://img.shields.io/badge/-TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=3178c6&labelColor=282828">
 
 <br />
+<img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=339933&labelColor=282828">
 <img src="https://img.shields.io/badge/-Express-ffffff?style=for-the-badge&logo=express&logoColor=ffffff&labelColor=282828">
 <img src="https://img.shields.io/badge/-Redis-dc382d?style=for-the-badge&logo=redis&logoColor=dc382d&labelColor=282828">
 <img src="https://img.shields.io/badge/-MySQL-4479a1?style=for-the-badge&logo=mysql&logoColor=4479a1&labelColor=282828">
