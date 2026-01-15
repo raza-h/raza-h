@@ -2,7 +2,7 @@
   <b>Raza Haider</b>
 </h1>
 
-Hi! I'm Raza Haider, a software engineer at Dubizzle Labs, Lahore, Pakistan. I love to learn new things and contribute to projects. I excel at Frontend Development with React.js. 
+Hi! I'm Raza Haider, a software engineer at Jazz, Pakistan. I love to learn new things and contribute to projects. I excel at Full-Stack Development with Next.js and MERN. 
 <br>
 
 <p>
@@ -28,7 +28,7 @@ Hi! I'm Raza Haider, a software engineer at Dubizzle Labs, Lahore, Pakistan. I l
 const Raza = () => ({
                        name: "Raza", 
                        username: "raza-h", 
-                       location: "Lahore, Pakistan", 
+                       location: "Pakistan", 
                        linkedin: "https://linkedin.com/in/razah1214"
                     })
 ```
