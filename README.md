@@ -2,7 +2,7 @@
   <b>Raza Haider</b>
 </h1>
 
-Hi! I'm Raza Haider, a software engineer at Jazz, Pakistan. I love to learn new things and contribute to projects. I excel at Full-Stack Development with Next.js and MERN. 
+Hi! I'm Raza Haider, a software engineer at Jazz, Pakistan. I love to learn new things and contribute to projects. I have over 2 years of experience building high-performance, scalable web applications, specializing in React.js and Next.js. I spearheaded the development of OLX Seller Center, onboarding 1000+ sellers within 6 months of launch to directly accelerate growth for OLX Marketplace, proving my ability to translate complex requirements into solutions that deliver significant business impact.
 <br>
 
 <p>
