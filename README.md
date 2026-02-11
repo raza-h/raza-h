@@ -31,14 +31,19 @@ Hi! I'm Raza Haider, a software engineer at Jazz, Pakistan. I love to learn new 
 </div>
 </p>
 
+<p align="center">
+  <img style="display: block; margin: 0 auto;" src="https://streak-stats.demolab.com?user=raza-h&theme=default&hide_border=true" alt="raza-h's GitHub Stats" />
+</p>
+
 
 ```javascript
-const Raza = () => ({
-                       name: "Raza", 
-                       username: "raza-h", 
-                       location: "Pakistan", 
-                       linkedin: "https://linkedin.com/in/razah1214"
-                    })
+const Raza = {
+   name: "Raza Haider", 
+   username: "raza-h",
+   email: "razah12145@gmail.com",
+   linkedin: "https://linkedin.com/in/razah1214",
+   location: "Pakistan", 
+}
 ```
 
 ## Find Me
