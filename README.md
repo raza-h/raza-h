@@ -31,10 +31,10 @@ Hi! I'm Raza Haider, a software engineer at Jazz, Pakistan. I love to learn new 
 </div>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats-cards.vercel.app/api?username=raza-h" alt="GitHub Stats">
+  <img src="https://github-readme-stats-cards.vercel.app/api?username=raza-h&theme=dark" alt="GitHub Stats">
 </p>
 <p align="center">
-  <img style="display: block; margin: 0 auto;" src="https://streak-stats.demolab.com?user=raza-h&theme=default&hide_border=true" alt="raza-h's GitHub Stats" />
+  <img style="display: block; margin: 0 auto;" src="https://streak-stats.demolab.com?user=raza-h&theme=dark&hide_border=true" alt="raza-h's GitHub Stats" />
 </p>
 
 ```javascript
